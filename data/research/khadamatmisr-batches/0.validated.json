@@ -1,0 +1,561 @@
+{
+  "source": "https://www.khadamatmisr.gov.eg/serviceslist",
+  "discovered": 130,
+  "startIndex": 0,
+  "recordCount": 25,
+  "verified": [],
+  "needsReview": [
+    {
+      "title": "توكيل عام قضايا",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/40",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للمحامي /محاميين"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل رسمي عام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/37",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للمحامي /محاميين"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل خاص بيع سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/39",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "اصل بطاقة الرقم القومى سارية للموكل"
+        },
+        {
+          "name": "رخصة السيارة سارية أو شهادة بيانات حديثة لا تزيد عن شهر من المرور فى حالة انتهاء الرخصة مع سحبها"
+        },
+        {
+          "name": "اسم الوكيل ووظيفته وعنوانه وجنسيته"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل خاص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/160",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "بطاقة رقم قومى"
+        },
+        {
+          "name": "كتابة محتوى التوكيل الخاص في الملاحظات"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل عام مخصص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/13",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "عقد بيع سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/151",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "إقرار",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/158",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "بطاقة رقم قومى"
+        },
+        {
+          "name": "كتابة محتوى الاقرار في الملاحظات"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل خاص بإدارة سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/12",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صوره محضر الفقد من قسم الشرطة"
+        },
+        {
+          "name": "بيانات الرخصه او صوره منها"
+        },
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "بيانات السيارة الموجودة في الرخصة"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل رسمى عام شامل (عام + بنوك)",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/38",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للمحامي /محاميين"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "إقرار بنك",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/156",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "بطاقه رقم قومی"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "عقد بيع دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/155",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "اصل رخصة الدراجة"
+        },
+        {
+          "name": "اصل شهادة البيانات"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل بيع دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/154",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "إقرار إلغاء",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/157",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "بطاقة رقم قومى"
+        },
+        {
+          "name": "صورة من المحرر المراد الغاؤة"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "محضر إيداع رسمي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/162",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "أصل التوكيل الصادر من الخارج"
+        },
+        {
+          "name": "بطاقة رقم قومي في الملاحظات"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "صورة رسمية من المحررات الرسمية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/147",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "بطاقة رقم قومي"
+        },
+        {
+          "name": "صورة المحرر"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "عقد إيجار",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/138",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل خاص بالصفة من توكيل رسمي عام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/31",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "عقد بيع سيارة نقل",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/150",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "اصل رخصة السيارة"
+        },
+        {
+          "name": "اصل شهادة البيانات"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل رسمي عام في الرهن العقاري",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/35",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "شهادة من واقع دفتر التصديق على التوقيعات",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/146",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "بطاقة رقم قومي"
+        },
+        {
+          "name": "صورة المحرر"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل رسمي عام في الضرائب",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/36",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل يجب ان يكون الوكيل محاسب"
+        },
+        {
+          "name": "في حالة التعامل عن شركة يجب تسليم أصل السجل التجاري"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل في الأمور الزوجية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/33",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للوكيل (يجب ان يكون الوكيل محامي أو قريب من الدرجة الثالثة)"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توثيق زواج الأجانب",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/69",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل رسمي عام في صرف المعاش",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/34",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    },
+    {
+      "title": "توكيل إدارة دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/152",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "extractedDocuments": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "missingRequiredFields": [
+        "summary",
+        "authority"
+      ],
+      "notes": "The official service page title and documents were verified, but it does not explicitly publish a summary or responsible authority required by the current import contract."
+    }
+  ]
+}

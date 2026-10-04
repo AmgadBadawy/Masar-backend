@@ -1,0 +1,64 @@
+{
+  "kind": "collectionType",
+  "collectionName": "services",
+  "info": {
+    "singularName": "service",
+    "pluralName": "services",
+    "displayName": "Service"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true
+    },
+    "summary": {
+      "type": "text"
+    },
+    "category": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::category.category",
+      "required": true,
+      "inversedBy": "services"
+    },
+    "authority": {
+      "type": "string"
+    },
+    "documents": {
+      "type": "component",
+      "component": "service.required-document",
+      "repeatable": true,
+      "required": true
+    },
+    "steps": {
+      "type": "component",
+      "component": "service.procedure-step",
+      "repeatable": true,
+      "required": false
+    },
+    "verification": {
+      "type": "component",
+      "component": "service.verification",
+      "repeatable": false,
+      "required": true
+    },
+    "fees": {
+      "type": "string"
+    },
+    "expectedTime": {
+      "type": "string"
+    },
+    "onlineAvailability": {
+      "type": "string"
+    }
+  }
+}

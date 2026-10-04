@@ -1,0 +1,430 @@
+{
+  "source": "https://www.khadamatmisr.gov.eg/serviceslist",
+  "discovered": 130,
+  "startIndex": 25,
+  "recordCount": 25,
+  "verified": [
+    {
+      "title": "عقد بيع أتوبيس وميكروباص",
+      "slug": "khadamat-misr-149",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "اصل رخصة السيارة"
+        },
+        {
+          "name": "اصل شهادة البيانات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع أتوبيس وميكروباص",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/149"
+      }
+    },
+    {
+      "title": "محضر صلح",
+      "slug": "khadamat-misr-159",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — محضر صلح",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/159"
+      }
+    },
+    {
+      "title": "شهادة خبرة",
+      "slug": "khadamat-misr-153",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — شهادة خبرة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/153"
+      }
+    },
+    {
+      "title": "عقد بيع موتور",
+      "slug": "khadamat-misr-135",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع موتور",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/135"
+      }
+    },
+    {
+      "title": "عقد وكالة",
+      "slug": "khadamat-misr-161",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد وكالة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/161"
+      }
+    },
+    {
+      "title": "توكيل خاص بالمعاش",
+      "slug": "khadamat-misr-144",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل خاص بالمعاش",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/144"
+      }
+    },
+    {
+      "title": "إقرار رسمي",
+      "slug": "khadamat-misr-145",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للمحامي /محاميين"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار رسمي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/145"
+      }
+    },
+    {
+      "title": "عقد بيع قاطرة",
+      "slug": "khadamat-misr-148",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "اصل رخصة السيارة"
+        },
+        {
+          "name": "اصل شهادة البيانات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع قاطرة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/148"
+      }
+    },
+    {
+      "title": "توكيل رسمى عام بالصفة من توكيل رسمى عام",
+      "slug": "khadamat-misr-32",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "صور ضوئية لاصل التوكيل المراد عمل الصفة منه مع الاحتفاظ باصل التوكيل الصفة اذا كان من غير نفس المكتب"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل رسمى عام بالصفة من توكيل رسمى عام",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/32"
+      }
+    },
+    {
+      "title": "إقرار إلغاء أحد أطراف التوكيل",
+      "slug": "khadamat-misr-142",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار إلغاء أحد أطراف التوكيل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/142"
+      }
+    },
+    {
+      "title": "تسجيل شهادة لصالح الغير",
+      "slug": "khadamat-misr-141",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تسجيل شهادة لصالح الغير",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/141"
+      }
+    },
+    {
+      "title": "عقد بيع وحدة بحرية",
+      "slug": "khadamat-misr-131",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع وحدة بحرية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/131"
+      }
+    },
+    {
+      "title": "فسخ عقد إيجار",
+      "slug": "khadamat-misr-137",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — فسخ عقد إيجار",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/137"
+      }
+    },
+    {
+      "title": "عقد تأسيس شركة تضامن",
+      "slug": "khadamat-misr-128",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تأسيس شركة تضامن",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/128"
+      }
+    },
+    {
+      "title": "عقد عمل",
+      "slug": "khadamat-misr-136",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد عمل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/136"
+      }
+    },
+    {
+      "title": "إقرار تنحى عن الوكالة",
+      "slug": "khadamat-misr-140",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار تنحى عن الوكالة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/140"
+      }
+    },
+    {
+      "title": "ترجمة محررات رسمية خاصة بزواج الأجانب",
+      "slug": "khadamat-misr-68",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — ترجمة محررات رسمية خاصة بزواج الأجانب",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/68"
+      }
+    },
+    {
+      "title": "عقد بيع جدك صيدلية",
+      "slug": "khadamat-misr-134",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع جدك صيدلية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/134"
+      }
+    },
+    {
+      "title": "عقد بيع لنش",
+      "slug": "khadamat-misr-133",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع لنش",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/133"
+      }
+    },
+    {
+      "title": "عقد تخارج شركة توصية بسيطة",
+      "slug": "khadamat-misr-122",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تخارج شركة توصية بسيطة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/122"
+      }
+    },
+    {
+      "title": "عقد شركة",
+      "slug": "khadamat-misr-130",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد شركة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/130"
+      }
+    },
+    {
+      "title": "إقرار شريك مسئول",
+      "slug": "khadamat-misr-143",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار شريك مسئول",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/143"
+      }
+    },
+    {
+      "title": "عقد بيع سفينة",
+      "slug": "khadamat-misr-132",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع سفينة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/132"
+      }
+    },
+    {
+      "title": "عقد شركة تضامن",
+      "slug": "khadamat-misr-129",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد شركة تضامن",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/129"
+      }
+    },
+    {
+      "title": "عقد تعديل شركة تضامن",
+      "slug": "khadamat-misr-127",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تعديل شركة تضامن",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/127"
+      }
+    }
+  ],
+  "needsReview": []
+}

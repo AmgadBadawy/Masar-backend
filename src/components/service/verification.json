@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_service_verifications",
+  "info": {
+    "displayName": "Verification"
+  },
+  "options": {},
+  "attributes": {
+    "verifiedAt": {
+      "type": "date",
+      "required": true
+    },
+    "sourceTitle": {
+      "type": "string",
+      "required": true
+    },
+    "sourceUrl": {
+      "type": "string",
+      "required": true,
+      "regex": "^(https?:\\/\\/).+"
+    }
+  }
+}

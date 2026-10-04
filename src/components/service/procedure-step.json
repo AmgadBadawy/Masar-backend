@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_service_procedure_steps",
+  "info": {
+    "displayName": "Procedure step"
+  },
+  "options": {},
+  "attributes": {
+    "order": {
+      "type": "integer",
+      "required": false
+    },
+    "title": {
+      "type": "string",
+      "required": false
+    },
+    "description": {
+      "type": "text",
+      "required": false
+    }
+  }
+}

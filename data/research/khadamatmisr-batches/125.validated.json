@@ -1,0 +1,89 @@
+{
+  "source": "https://www.khadamatmisr.gov.eg/serviceslist",
+  "discovered": 130,
+  "startIndex": 125,
+  "recordCount": 5,
+  "verified": [
+    {
+      "title": "مدفوعات الحج",
+      "slug": "khadamat-misr-82",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — مدفوعات الحج",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/82"
+      }
+    },
+    {
+      "title": "دفع مجموعات التقوية بورسعيد",
+      "slug": "khadamat-misr-80",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع مجموعات التقوية بورسعيد",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/80"
+      }
+    },
+    {
+      "title": "دفع تظلمات الثانوية العامة",
+      "slug": "khadamat-misr-79",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تظلمات الثانوية العامة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/79"
+      }
+    },
+    {
+      "title": "استكمال دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+      "slug": "khadamat-misr-78",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي."
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — استكمال دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/78"
+      }
+    },
+    {
+      "title": "دفع مصروفات الجامعة الدراسية",
+      "slug": "khadamat-misr-75",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع مصروفات الجامعة الدراسية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/75"
+      }
+    }
+  ],
+  "needsReview": []
+}

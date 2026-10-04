@@ -1,0 +1,233 @@
+{
+  "source": "https://www.khadamatmisr.gov.eg/serviceslist",
+  "discovered": 130,
+  "startIndex": 0,
+  "verified": [],
+  "needsReview": [
+    {
+      "title": "توكيل عام قضايا",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/40",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمي عام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/37",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص بيع سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/39",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/160",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل عام مخصص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/13",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/151",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/158",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص بإدارة سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/12",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمى عام شامل (عام + بنوك)",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/38",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار بنك",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/156",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/155",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل بيع دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/154",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار إلغاء",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/157",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "محضر إيداع رسمي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/162",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "صورة رسمية من المحررات الرسمية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/147",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد إيجار",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/138",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص بالصفة من توكيل رسمي عام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/31",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع سيارة نقل",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/150",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمي عام في الرهن العقاري",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/35",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "شهادة من واقع دفتر التصديق على التوقيعات",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/146",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمي عام في الضرائب",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/36",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل في الأمور الزوجية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/33",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توثيق زواج الأجانب",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/69",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمي عام في صرف المعاش",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/34",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل إدارة دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/152",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    }
+  ]
+}

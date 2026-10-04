@@ -1,0 +1,2327 @@
+{
+  "contentType": "api::service.service",
+  "categories": [
+    {
+      "name": "الشهر العقاري و التوثيق",
+      "slug": "real-estate-notarization"
+    },
+    {
+      "name": "الأحوال المدنية",
+      "slug": "civil-status"
+    },
+    {
+      "name": "الأدلة الجنائية",
+      "slug": "criminal-evidence"
+    },
+    {
+      "name": "النيابة العامة المصرية",
+      "slug": "public-prosecution"
+    },
+    {
+      "name": "الإدارة العامة للجوازات والهجرة والجنسية",
+      "slug": "passports-immigration-nationality"
+    },
+    {
+      "name": "الإدارة العامة للمرور",
+      "slug": "traffic"
+    },
+    {
+      "name": "وزارة التضامن الاجتماعي",
+      "slug": "social-solidarity"
+    },
+    {
+      "name": "التأمينات الاجتماعية",
+      "slug": "social-insurance"
+    },
+    {
+      "name": "الدفع الإلكتروني",
+      "slug": "electronic-payments"
+    }
+  ],
+  "data": [
+    {
+      "title": "توكيل عام قضايا",
+      "slug": "khadamat-misr-40",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للمحامي /محاميين"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل عام قضايا",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/40"
+      }
+    },
+    {
+      "title": "توكيل رسمي عام",
+      "slug": "khadamat-misr-37",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للمحامي /محاميين"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل رسمي عام",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/37"
+      }
+    },
+    {
+      "title": "توكيل خاص بيع سيارة",
+      "slug": "khadamat-misr-39",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "اصل بطاقة الرقم القومى سارية للموكل"
+        },
+        {
+          "name": "رخصة السيارة سارية أو شهادة بيانات حديثة لا تزيد عن شهر من المرور فى حالة انتهاء الرخصة مع سحبها"
+        },
+        {
+          "name": "اسم الوكيل ووظيفته وعنوانه وجنسيته"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل خاص بيع سيارة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/39"
+      }
+    },
+    {
+      "title": "توكيل خاص",
+      "slug": "khadamat-misr-160",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "بطاقة رقم قومى"
+        },
+        {
+          "name": "كتابة محتوى التوكيل الخاص في الملاحظات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل خاص",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/160"
+      }
+    },
+    {
+      "title": "توكيل عام مخصص",
+      "slug": "khadamat-misr-13",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل عام مخصص",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/13"
+      }
+    },
+    {
+      "title": "عقد بيع سيارة",
+      "slug": "khadamat-misr-151",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع سيارة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/151"
+      }
+    },
+    {
+      "title": "إقرار",
+      "slug": "khadamat-misr-158",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "بطاقة رقم قومى"
+        },
+        {
+          "name": "كتابة محتوى الاقرار في الملاحظات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/158"
+      }
+    },
+    {
+      "title": "توكيل خاص بإدارة سيارة",
+      "slug": "khadamat-misr-12",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صوره محضر الفقد من قسم الشرطة"
+        },
+        {
+          "name": "بيانات الرخصه او صوره منها"
+        },
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "بيانات السيارة الموجودة في الرخصة"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل خاص بإدارة سيارة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/12"
+      }
+    },
+    {
+      "title": "توكيل رسمى عام شامل (عام + بنوك)",
+      "slug": "khadamat-misr-38",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للمحامي /محاميين"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل رسمى عام شامل (عام + بنوك)",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/38"
+      }
+    },
+    {
+      "title": "إقرار بنك",
+      "slug": "khadamat-misr-156",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "بطاقه رقم قومی"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار بنك",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/156"
+      }
+    },
+    {
+      "title": "عقد بيع دراجة بخارية",
+      "slug": "khadamat-misr-155",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "اصل رخصة الدراجة"
+        },
+        {
+          "name": "اصل شهادة البيانات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع دراجة بخارية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/155"
+      }
+    },
+    {
+      "title": "توكيل بيع دراجة بخارية",
+      "slug": "khadamat-misr-154",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل بيع دراجة بخارية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/154"
+      }
+    },
+    {
+      "title": "إقرار إلغاء",
+      "slug": "khadamat-misr-157",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "بطاقة رقم قومى"
+        },
+        {
+          "name": "صورة من المحرر المراد الغاؤة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار إلغاء",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/157"
+      }
+    },
+    {
+      "title": "محضر إيداع رسمي",
+      "slug": "khadamat-misr-162",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "أصل التوكيل الصادر من الخارج"
+        },
+        {
+          "name": "بطاقة رقم قومي في الملاحظات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — محضر إيداع رسمي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/162"
+      }
+    },
+    {
+      "title": "صورة رسمية من المحررات الرسمية",
+      "slug": "khadamat-misr-147",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "بطاقة رقم قومي"
+        },
+        {
+          "name": "صورة المحرر"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — صورة رسمية من المحررات الرسمية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/147"
+      }
+    },
+    {
+      "title": "عقد إيجار",
+      "slug": "khadamat-misr-138",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد إيجار",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/138"
+      }
+    },
+    {
+      "title": "توكيل خاص بالصفة من توكيل رسمي عام",
+      "slug": "khadamat-misr-31",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل خاص بالصفة من توكيل رسمي عام",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/31"
+      }
+    },
+    {
+      "title": "عقد بيع سيارة نقل",
+      "slug": "khadamat-misr-150",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "اصل رخصة السيارة"
+        },
+        {
+          "name": "اصل شهادة البيانات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع سيارة نقل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/150"
+      }
+    },
+    {
+      "title": "توكيل رسمي عام في الرهن العقاري",
+      "slug": "khadamat-misr-35",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل رسمي عام في الرهن العقاري",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/35"
+      }
+    },
+    {
+      "title": "شهادة من واقع دفتر التصديق على التوقيعات",
+      "slug": "khadamat-misr-146",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "بطاقة رقم قومي"
+        },
+        {
+          "name": "صورة المحرر"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — شهادة من واقع دفتر التصديق على التوقيعات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/146"
+      }
+    },
+    {
+      "title": "توكيل رسمي عام في الضرائب",
+      "slug": "khadamat-misr-36",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل يجب ان يكون الوكيل محاسب"
+        },
+        {
+          "name": "في حالة التعامل عن شركة يجب تسليم أصل السجل التجاري"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل رسمي عام في الضرائب",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/36"
+      }
+    },
+    {
+      "title": "توكيل في الأمور الزوجية",
+      "slug": "khadamat-misr-33",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للوكيل (يجب ان يكون الوكيل محامي أو قريب من الدرجة الثالثة)"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل في الأمور الزوجية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/33"
+      }
+    },
+    {
+      "title": "توثيق زواج الأجانب",
+      "slug": "khadamat-misr-69",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توثيق زواج الأجانب",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/69"
+      }
+    },
+    {
+      "title": "توكيل رسمي عام في صرف المعاش",
+      "slug": "khadamat-misr-34",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل رسمي عام في صرف المعاش",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/34"
+      }
+    },
+    {
+      "title": "توكيل إدارة دراجة بخارية",
+      "slug": "khadamat-misr-152",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل إدارة دراجة بخارية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/152"
+      }
+    },
+    {
+      "title": "عقد بيع أتوبيس وميكروباص",
+      "slug": "khadamat-misr-149",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "اصل رخصة السيارة"
+        },
+        {
+          "name": "اصل شهادة البيانات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع أتوبيس وميكروباص",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/149"
+      }
+    },
+    {
+      "title": "محضر صلح",
+      "slug": "khadamat-misr-159",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — محضر صلح",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/159"
+      }
+    },
+    {
+      "title": "شهادة خبرة",
+      "slug": "khadamat-misr-153",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — شهادة خبرة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/153"
+      }
+    },
+    {
+      "title": "عقد بيع موتور",
+      "slug": "khadamat-misr-135",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع موتور",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/135"
+      }
+    },
+    {
+      "title": "عقد وكالة",
+      "slug": "khadamat-misr-161",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد وكالة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/161"
+      }
+    },
+    {
+      "title": "توكيل خاص بالمعاش",
+      "slug": "khadamat-misr-144",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل خاص بالمعاش",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/144"
+      }
+    },
+    {
+      "title": "إقرار رسمي",
+      "slug": "khadamat-misr-145",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صور ضوئية للمحامي /محاميين"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار رسمي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/145"
+      }
+    },
+    {
+      "title": "عقد بيع قاطرة",
+      "slug": "khadamat-misr-148",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "اصل رخصة السيارة"
+        },
+        {
+          "name": "اصل شهادة البيانات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع قاطرة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/148"
+      }
+    },
+    {
+      "title": "توكيل رسمى عام بالصفة من توكيل رسمى عام",
+      "slug": "khadamat-misr-32",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "صورة ضوئية لبطاقة المواطن"
+        },
+        {
+          "name": "صوره ضوئيه لبطاقه الوكيل"
+        },
+        {
+          "name": "صور ضوئية لاصل التوكيل المراد عمل الصفة منه مع الاحتفاظ باصل التوكيل الصفة اذا كان من غير نفس المكتب"
+        },
+        {
+          "name": "سند الصفة التوكيل عن الغير"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — توكيل رسمى عام بالصفة من توكيل رسمى عام",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/32"
+      }
+    },
+    {
+      "title": "إقرار إلغاء أحد أطراف التوكيل",
+      "slug": "khadamat-misr-142",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار إلغاء أحد أطراف التوكيل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/142"
+      }
+    },
+    {
+      "title": "تسجيل شهادة لصالح الغير",
+      "slug": "khadamat-misr-141",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تسجيل شهادة لصالح الغير",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/141"
+      }
+    },
+    {
+      "title": "عقد بيع وحدة بحرية",
+      "slug": "khadamat-misr-131",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع وحدة بحرية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/131"
+      }
+    },
+    {
+      "title": "فسخ عقد إيجار",
+      "slug": "khadamat-misr-137",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — فسخ عقد إيجار",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/137"
+      }
+    },
+    {
+      "title": "عقد تأسيس شركة تضامن",
+      "slug": "khadamat-misr-128",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تأسيس شركة تضامن",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/128"
+      }
+    },
+    {
+      "title": "عقد عمل",
+      "slug": "khadamat-misr-136",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد عمل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/136"
+      }
+    },
+    {
+      "title": "إقرار تنحى عن الوكالة",
+      "slug": "khadamat-misr-140",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار تنحى عن الوكالة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/140"
+      }
+    },
+    {
+      "title": "ترجمة محررات رسمية خاصة بزواج الأجانب",
+      "slug": "khadamat-misr-68",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — ترجمة محررات رسمية خاصة بزواج الأجانب",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/68"
+      }
+    },
+    {
+      "title": "عقد بيع جدك صيدلية",
+      "slug": "khadamat-misr-134",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع جدك صيدلية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/134"
+      }
+    },
+    {
+      "title": "عقد بيع لنش",
+      "slug": "khadamat-misr-133",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع لنش",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/133"
+      }
+    },
+    {
+      "title": "عقد تخارج شركة توصية بسيطة",
+      "slug": "khadamat-misr-122",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تخارج شركة توصية بسيطة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/122"
+      }
+    },
+    {
+      "title": "عقد شركة",
+      "slug": "khadamat-misr-130",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد شركة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/130"
+      }
+    },
+    {
+      "title": "إقرار شريك مسئول",
+      "slug": "khadamat-misr-143",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إقرار شريك مسئول",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/143"
+      }
+    },
+    {
+      "title": "عقد بيع سفينة",
+      "slug": "khadamat-misr-132",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد بيع سفينة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/132"
+      }
+    },
+    {
+      "title": "عقد شركة تضامن",
+      "slug": "khadamat-misr-129",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد شركة تضامن",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/129"
+      }
+    },
+    {
+      "title": "عقد تعديل شركة تضامن",
+      "slug": "khadamat-misr-127",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تعديل شركة تضامن",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/127"
+      }
+    },
+    {
+      "title": "عقد تخارج شركة تضامن",
+      "slug": "khadamat-misr-126",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تخارج شركة تضامن",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/126"
+      }
+    },
+    {
+      "title": "عقد شركة توصية بسيطة",
+      "slug": "khadamat-misr-125",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد شركة توصية بسيطة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/125"
+      }
+    },
+    {
+      "title": "عقد تأسيس شركة توصية بسيطة",
+      "slug": "khadamat-misr-124",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تأسيس شركة توصية بسيطة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/124"
+      }
+    },
+    {
+      "title": "عقد تعديل شركة توصية بسيطة",
+      "slug": "khadamat-misr-123",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد تعديل شركة توصية بسيطة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/123"
+      }
+    },
+    {
+      "title": "عقد فض / فسخ شركة",
+      "slug": "khadamat-misr-121",
+      "category": "real-estate-notarization",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — عقد فض / فسخ شركة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/121"
+      }
+    },
+    {
+      "title": "إصدار شهادة ميلاد مميكنة مطبوعة مسبقا",
+      "slug": "khadamat-misr-29",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة المواطن"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إصدار شهادة ميلاد مميكنة مطبوعة مسبقا",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/29"
+      }
+    },
+    {
+      "title": "إستمارة تجديد رقم قومي",
+      "slug": "khadamat-misr-67",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة المواطن"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستمارة تجديد رقم قومي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/67"
+      }
+    },
+    {
+      "title": "تغيير بيانات بطاقة رقم قومي",
+      "slug": "khadamat-misr-65",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة الرقم القومي القديمة"
+        },
+        {
+          "name": "ما يفيد تغيير البيانات"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تغيير بيانات بطاقة رقم قومي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/65"
+      }
+    },
+    {
+      "title": "إصدار وثيقة زواج مميكنة",
+      "slug": "khadamat-misr-10",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة المواطن"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إصدار وثيقة زواج مميكنة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/10"
+      }
+    },
+    {
+      "title": "إصدار شهادة وفاة مميكنة",
+      "slug": "khadamat-misr-8",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة المواطن"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إصدار شهادة وفاة مميكنة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/8"
+      }
+    },
+    {
+      "title": "إصدار شهادة ميلاد مميكنة لأول مرة",
+      "slug": "khadamat-misr-7",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة المواطن"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إصدار شهادة ميلاد مميكنة لأول مرة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/7"
+      }
+    },
+    {
+      "title": "قيد عائلي مطبوع مسبقا",
+      "slug": "khadamat-misr-66",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "صور بطاقات الزوجين"
+        },
+        {
+          "name": "قسمية الزواج أو الطلاق"
+        },
+        {
+          "name": "شهادات ميلاد الأطفال ان وجد"
+        },
+        {
+          "name": "شهادات الوفاة ان وجد"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — قيد عائلي مطبوع مسبقا",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/66"
+      }
+    },
+    {
+      "title": "غرامات بطاقة رقم قومي",
+      "slug": "khadamat-misr-189",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — غرامات بطاقة رقم قومي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/189"
+      }
+    },
+    {
+      "title": "إصدار وثيقة طلاق مميكنة",
+      "slug": "khadamat-misr-30",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة المواطن"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إصدار وثيقة طلاق مميكنة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/30"
+      }
+    },
+    {
+      "title": "تجديد بطاقة الرقم القومي",
+      "slug": "khadamat-misr-61",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة الرقم القومي القديمة و في حالة الزواج مطلوب قسيمة الزواج"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تجديد بطاقة الرقم القومي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/61"
+      }
+    },
+    {
+      "title": "بدل فاقد رقم قومي",
+      "slug": "khadamat-misr-62",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة الرقم القومي القديمة في حالة الزواج مطلوب قسيمة الزواج"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — بدل فاقد رقم قومي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/62"
+      }
+    },
+    {
+      "title": "إصدار بطاقة رقم قومي بدل تالف",
+      "slug": "khadamat-misr-64",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "بطاقة الرقم القومي التالفة في حالة الزوج أو الزوجة يتم طلب شهادة الزواج"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إصدار بطاقة رقم قومي بدل تالف",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/64"
+      }
+    },
+    {
+      "title": "إصدار بطاقة رقم قومي أول مرة",
+      "slug": "khadamat-misr-63",
+      "category": "civil-status",
+      "documents": [
+        {
+          "name": "طالب: شهادة ميلاد مختومة من جهة الدراسة"
+        },
+        {
+          "name": "ضامن: أقارب حتى الدرجة الثالثة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إصدار بطاقة رقم قومي أول مرة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/63"
+      }
+    },
+    {
+      "title": "فيش جنائى مستعجل",
+      "slug": "khadamat-misr-14",
+      "category": "criminal-evidence",
+      "documents": [
+        {
+          "name": "بطاقة المواطن"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — فيش جنائى مستعجل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/14"
+      }
+    },
+    {
+      "title": "إستخراج صورة رسمية للأحكام",
+      "slug": "khadamat-misr-95",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج صورة رسمية للأحكام",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/95"
+      }
+    },
+    {
+      "title": "إستخراج إعلام الوراثة",
+      "slug": "khadamat-misr-93",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج إعلام الوراثة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/93"
+      }
+    },
+    {
+      "title": "إستخراج صيغة تنفيذية للأحكام",
+      "slug": "khadamat-misr-94",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج صيغة تنفيذية للأحكام",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/94"
+      }
+    },
+    {
+      "title": "الإستعلام عن وجود قضايا أسرة وقضايا إعلام الوراثة",
+      "slug": "khadamat-misr-99",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — الإستعلام عن وجود قضايا أسرة وقضايا إعلام الوراثة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/99"
+      }
+    },
+    {
+      "title": "إستخراج شهادة واقع الجدول",
+      "slug": "khadamat-misr-96",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "تصدر لاي طرف من أطراف الدعوى او احد وكلانهم ويتم التحقق من الصفة بموجب أصل الرقم القومي في حال كان احد اطراف التداعي او اصل التوكيل في حال كان وكيلا عن احد اطراف التداعي."
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج شهادة واقع الجدول",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/96"
+      }
+    },
+    {
+      "title": "إستخراج صورة من قرار جلسة مال",
+      "slug": "khadamat-misr-97",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج صورة من قرار جلسة مال",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/97"
+      }
+    },
+    {
+      "title": "الدفع إلكتروني لقيم مخالفات المرور",
+      "slug": "khadamat-misr-91",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — الدفع إلكتروني لقيم مخالفات المرور",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/91"
+      }
+    },
+    {
+      "title": "إستخراج شهادة براءة الذمة من المخالفات المرورية",
+      "slug": "khadamat-misr-92",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج شهادة براءة الذمة من المخالفات المرورية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/92"
+      }
+    },
+    {
+      "title": "إستخراج قرار وصاية",
+      "slug": "khadamat-misr-98",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج قرار وصاية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/98"
+      }
+    },
+    {
+      "title": "إستخراج شهادة من الجدول وصورة رسميه من القضايا والأحكام الجنائية",
+      "slug": "khadamat-misr-100",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج شهادة من الجدول وصورة رسميه من القضايا والأحكام الجنائية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/100"
+      }
+    },
+    {
+      "title": "الإستعلام عن قيم المخالفات المرورية",
+      "slug": "khadamat-misr-90",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — الإستعلام عن قيم المخالفات المرورية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/90"
+      }
+    },
+    {
+      "title": "الإستعلام عن حالة العرائض والشكاوى والتظلمات المقدمة لنيابات الإستئناف",
+      "slug": "khadamat-misr-101",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — الإستعلام عن حالة العرائض والشكاوى والتظلمات المقدمة لنيابات الإستئناف",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/101"
+      }
+    },
+    {
+      "title": "تقديم عريضة أو شكوى",
+      "slug": "khadamat-misr-106",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تقديم عريضة أو شكوى",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/106"
+      }
+    },
+    {
+      "title": "الإستعلام عن حالة العرائض والشكاوى والتظلمات والإلتماسات وإعادة النظر المقدمة",
+      "slug": "khadamat-misr-103",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — الإستعلام عن حالة العرائض والشكاوى والتظلمات والإلتماسات وإعادة النظر المقدمة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/103"
+      }
+    },
+    {
+      "title": "تقديم إلتماس بإعادة النظر",
+      "slug": "khadamat-misr-104",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تقديم إلتماس بإعادة النظر",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/104"
+      }
+    },
+    {
+      "title": "تقديم تظلم لنيابات الإستئناف",
+      "slug": "khadamat-misr-102",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تقديم تظلم لنيابات الإستئناف",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/102"
+      }
+    },
+    {
+      "title": "صورة رسمية من مستند في دعوى (عريضة الدعوى - واجهة الحافظة)",
+      "slug": "khadamat-misr-178",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "تصدر لاي طرف من أطراف الدعوى او احد وكلانهم ويتم التحقق من الصفة بموجب أصل الرقم القومي في حال كان احد اطراف التداعي او اصل التوكيل في حال كان وكيلا عن احد أطراف التداعي."
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — صورة رسمية من مستند في دعوى (عريضة الدعوى - واجهة الحافظة)",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/178"
+      }
+    },
+    {
+      "title": "صورة رسمية من قرار محامي عام",
+      "slug": "khadamat-misr-177",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "تصدر لاي طرف من اطراف الدعوى او احد وكلانهم ويتم التحقق من الصفة بموجب أصل الرقم القومي في حال كان احد اطراف التداعي او اصل التوكيل في حال كان وكيلا عن احد اطراف التداعي."
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — صورة رسمية من قرار محامي عام",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/177"
+      }
+    },
+    {
+      "title": "إستخراج وثيقة (زواج - طلاق - تصادق - زواج غير مسلمين - مراجعة)",
+      "slug": "khadamat-misr-176",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يجب ان يكون احد اطراف الوثيقة او الاقارب من الدرجة الاولي او وكيل احد اطراف الوثيقة وفي حال كان أحد اطراف الوثيقة او الاقارب من الدرجة الاولى يجب التحقق من شخصه ببطاقة الرقم القومي وفي حال كان الوكيل بشترط وجود التوكيل اصل وصورة."
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستخراج وثيقة (زواج - طلاق - تصادق - زواج غير مسلمين - مراجعة)",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/176"
+      }
+    },
+    {
+      "title": "تقديم تظلم",
+      "slug": "khadamat-misr-105",
+      "category": "public-prosecution",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تقديم تظلم",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/105"
+      }
+    },
+    {
+      "title": "جواز سفر جديد/تجديد",
+      "slug": "khadamat-misr-54",
+      "category": "passports-immigration-nationality",
+      "documents": [
+        {
+          "name": "شهادات القيد الدراسي للطلبة والطالبات للعام الدراسي (للعام الدراسي الحالي)"
+        },
+        {
+          "name": "شهادة ميلاد رقم قومي من هم أقل من 15 عاماً"
+        },
+        {
+          "name": "بطاقة الرقم القومى سارية ومطابقة للحالة من بلغت أعمارهم 15 عاماً"
+        },
+        {
+          "name": "جواز سفر سابق إن وجد"
+        },
+        {
+          "name": "الإناث يقدمن مستند إثبات الحالة الاجتماعية ( إن لم يذكر في البطاقة)"
+        },
+        {
+          "name": "وثيقة تأمين لرعاية المسافر بالخارج سارية طوال مدة سريان جواز السفر"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — جواز سفر جديد/تجديد",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/54"
+      }
+    },
+    {
+      "title": "إصدار شهادة تحركات",
+      "slug": "khadamat-misr-55",
+      "category": "passports-immigration-nationality",
+      "documents": [
+        {
+          "name": "صورة بطاقة الرقم القومي"
+        },
+        {
+          "name": "صورة جواز السفر لصاحب شهادة التحركات فى حالة التقديم للسفارات"
+        },
+        {
+          "name": "صورة خطاب الجهة المقدم اليها شهادة التحركات (ماعدا السفارات والتجنيد والنقابات)"
+        },
+        {
+          "name": "فى حالة كونك مزدوج الجنسيَّة تـأكد من تحميل صور جميع جوازات السفر المصرية والاخرى"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إصدار شهادة تحركات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/55"
+      }
+    },
+    {
+      "title": "جواز سفر بدل فاقد/تالف",
+      "slug": "khadamat-misr-53",
+      "category": "passports-immigration-nationality",
+      "documents": [
+        {
+          "name": "شهادات القيد الدراسي للطلبة والطالبات للعام الدراسي (للعام الدراسي الحالي)"
+        },
+        {
+          "name": "شهادة ميلاد رقم قومي من هم أقل من 15 عاماً"
+        },
+        {
+          "name": "بطاقة الرقم القومى سارية ومطابقة للحالة من بلغت أعمارهم 15 عاماً"
+        },
+        {
+          "name": "جواز سفر سابق إن وجد"
+        },
+        {
+          "name": "الإناث يقدمن مستند إثبات الحالة الاجتماعية ( إن لم يذكر في البطاقة)"
+        },
+        {
+          "name": "وثيقة تأمين لرعاية المسافر بالخارج سارية طوال مدة سريان جواز السفر"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — جواز سفر بدل فاقد/تالف",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/53"
+      }
+    },
+    {
+      "title": "تجديد رخصه مركبة بدون فحص",
+      "slug": "khadamat-misr-44",
+      "category": "traffic",
+      "documents": [
+        {
+          "name": "صوره رخصة التسيير للمركبة"
+        },
+        {
+          "name": "شهادة براءة الذمه"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تجديد رخصه مركبة بدون فحص",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/44"
+      }
+    },
+    {
+      "title": "بدل فاقد رخصة قيادة",
+      "slug": "khadamat-misr-46",
+      "category": "traffic",
+      "documents": [
+        {
+          "name": "محضر فقد رخصة قيادة"
+        },
+        {
+          "name": "بطاقة الرقم القومي"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — بدل فاقد رخصة قيادة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/46"
+      }
+    },
+    {
+      "title": "بدل فاقد رخصه تسيير مركبة",
+      "slug": "khadamat-misr-50",
+      "category": "traffic",
+      "documents": [
+        {
+          "name": "صوره محضر الفقد من قسم الشرطة"
+        },
+        {
+          "name": "بيانات الرخصه او صوره منها"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — بدل فاقد رخصه تسيير مركبة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/50"
+      }
+    },
+    {
+      "title": "بدل تالف ملصق إلكتروني",
+      "slug": "khadamat-misr-47",
+      "category": "traffic",
+      "documents": [
+        {
+          "name": "صورة رخصة التسيير"
+        },
+        {
+          "name": "الملصق الالكتروني التالف"
+        },
+        {
+          "name": "بطاقة الرقم القومي"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — بدل تالف ملصق إلكتروني",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/47"
+      }
+    },
+    {
+      "title": "بدل تالف رخصة قيادة",
+      "slug": "khadamat-misr-45",
+      "category": "traffic",
+      "documents": [
+        {
+          "name": "رخصة القيادة التالفه"
+        },
+        {
+          "name": "بطاقة الرقم القومي"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — بدل تالف رخصة قيادة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/45"
+      }
+    },
+    {
+      "title": "بدل تالف رخصه تسيير مركبة",
+      "slug": "khadamat-misr-49",
+      "category": "traffic",
+      "documents": [
+        {
+          "name": "صوره الرخصة التالفه"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — بدل تالف رخصه تسيير مركبة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/49"
+      }
+    },
+    {
+      "title": "بدل فاقد ملصق إلكتروني",
+      "slug": "khadamat-misr-48",
+      "category": "traffic",
+      "documents": [
+        {
+          "name": "صورة رخصة التسيير"
+        },
+        {
+          "name": "محضر فقد الملصق الالكتروني"
+        },
+        {
+          "name": "بطاقة الرقم القومي"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — بدل فاقد ملصق إلكتروني",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/48"
+      }
+    },
+    {
+      "title": "دفع مقابل كارت الخدمات المتكاملة",
+      "slug": "khadamat-misr-89",
+      "category": "social-solidarity",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع مقابل كارت الخدمات المتكاملة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/89"
+      }
+    },
+    {
+      "title": "مقابل الكشف الوظائفي",
+      "slug": "khadamat-misr-88",
+      "category": "social-solidarity",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — مقابل الكشف الوظائفي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/88"
+      }
+    },
+    {
+      "title": "دفع طبعة رقم تأمين",
+      "slug": "khadamat-misr-170",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع طبعة رقم تأمين",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/170"
+      }
+    },
+    {
+      "title": "إستعلام مؤمن عليه",
+      "slug": "khadamat-misr-57",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستعلام مؤمن عليه",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/57"
+      }
+    },
+    {
+      "title": "دفع تأمين سيارة",
+      "slug": "khadamat-misr-173",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين سيارة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/173"
+      }
+    },
+    {
+      "title": "دفع تأمين منشأة",
+      "slug": "khadamat-misr-168",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين منشأة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/168"
+      }
+    },
+    {
+      "title": "تسجيل رقم تأميني",
+      "slug": "khadamat-misr-60",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "صورة شهادة ميلاد المميكنة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تسجيل رقم تأميني",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/60"
+      }
+    },
+    {
+      "title": "دفع تأمين عامل نقل بري",
+      "slug": "khadamat-misr-171",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين عامل نقل بري",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/171"
+      }
+    },
+    {
+      "title": "دفع تأمين عامل مقاولات",
+      "slug": "khadamat-misr-172",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين عامل مقاولات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/172"
+      }
+    },
+    {
+      "title": "إستعلام معاشات",
+      "slug": "khadamat-misr-56",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "صورة بطاقة قومي"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستعلام معاشات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/56"
+      }
+    },
+    {
+      "title": "دفع تأمين شامل",
+      "slug": "khadamat-misr-175",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين شامل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/175"
+      }
+    },
+    {
+      "title": "إستعلام ودفع رصيد منشأت برصيد المدين فقط",
+      "slug": "khadamat-misr-58",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "رقم المنشأة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستعلام ودفع رصيد منشأت برصيد المدين فقط",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/58"
+      }
+    },
+    {
+      "title": "جميع مدفوعات التأمينات الخاصة بصندوق العام و الخاص",
+      "slug": "khadamat-misr-167",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — جميع مدفوعات التأمينات الخاصة بصندوق العام و الخاص",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/167"
+      }
+    },
+    {
+      "title": "دفع تأمينات النقل",
+      "slug": "khadamat-misr-169",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمينات النقل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/169"
+      }
+    },
+    {
+      "title": "تأمين صحي سيارات",
+      "slug": "khadamat-misr-165",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تأمين صحي سيارات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/165"
+      }
+    },
+    {
+      "title": "إعتماد بطاقة إستمارة رقم قومي",
+      "slug": "khadamat-misr-59",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "استمارة رقم قومي مختومة من جهة العمل"
+        },
+        {
+          "name": "صورة بطاقة الرقم القومي"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إعتماد بطاقة إستمارة رقم قومي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/59"
+      }
+    },
+    {
+      "title": "تأمين صحي منشأت",
+      "slug": "khadamat-misr-164",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تأمين صحي منشأت",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/164"
+      }
+    },
+    {
+      "title": "دفع تأمين صياد",
+      "slug": "khadamat-misr-174",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين صياد",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/174"
+      }
+    },
+    {
+      "title": "تأمين صحي معاشات",
+      "slug": "khadamat-misr-166",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تأمين صحي معاشات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/166"
+      }
+    },
+    {
+      "title": "تأمين صحى أفراد مؤمن عليه",
+      "slug": "khadamat-misr-163",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تأمين صحى أفراد مؤمن عليه",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/163"
+      }
+    },
+    {
+      "title": "دفع فواتير الكهرباء",
+      "slug": "khadamat-misr-73",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع فواتير الكهرباء",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/73"
+      }
+    },
+    {
+      "title": "دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+      "slug": "khadamat-misr-76",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/76"
+      }
+    },
+    {
+      "title": "دفع المصروفات الدراسية للطلبة اقساط بالتربية و التعليم ( المدارس الحكوميه)",
+      "slug": "khadamat-misr-77",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع المصروفات الدراسية للطلبة اقساط بالتربية و التعليم ( المدارس الحكوميه)",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/77"
+      }
+    },
+    {
+      "title": "شحن عداد الكهرباء",
+      "slug": "khadamat-misr-74",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — شحن عداد الكهرباء",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/74"
+      }
+    },
+    {
+      "title": "مدفوعات CNE,BEIN",
+      "slug": "khadamat-misr-81",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — مدفوعات CNE,BEIN",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/81"
+      }
+    },
+    {
+      "title": "مدفوعات وزارة التربية و التعليم - بوابة السداد",
+      "slug": "khadamat-misr-188",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — مدفوعات وزارة التربية و التعليم - بوابة السداد",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/188"
+      }
+    },
+    {
+      "title": "مدفوعات الحج",
+      "slug": "khadamat-misr-82",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — مدفوعات الحج",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/82"
+      }
+    },
+    {
+      "title": "دفع مجموعات التقوية بورسعيد",
+      "slug": "khadamat-misr-80",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع مجموعات التقوية بورسعيد",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/80"
+      }
+    },
+    {
+      "title": "دفع تظلمات الثانوية العامة",
+      "slug": "khadamat-misr-79",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تظلمات الثانوية العامة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/79"
+      }
+    },
+    {
+      "title": "استكمال دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+      "slug": "khadamat-misr-78",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي."
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — استكمال دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/78"
+      }
+    },
+    {
+      "title": "دفع مصروفات الجامعة الدراسية",
+      "slug": "khadamat-misr-75",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع مصروفات الجامعة الدراسية",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/75"
+      }
+    }
+  ]
+}

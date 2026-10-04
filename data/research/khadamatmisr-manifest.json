@@ -1,0 +1,1178 @@
+{
+  "source": "https://www.khadamatmisr.gov.eg/serviceslist",
+  "verifiedAt": "2026-09-24",
+  "discovered": 130,
+  "verified": [],
+  "needsReview": [
+    {
+      "title": "توكيل عام قضايا",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/40",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمي عام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/37",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص بيع سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/39",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/160",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل عام مخصص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/13",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/151",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/158",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص بإدارة سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/12",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمى عام شامل (عام + بنوك)",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/38",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار بنك",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/156",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/155",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل بيع دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/154",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار إلغاء",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/157",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "محضر إيداع رسمي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/162",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "صورة رسمية من المحررات الرسمية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/147",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد إيجار",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/138",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص بالصفة من توكيل رسمي عام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/31",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع سيارة نقل",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/150",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمي عام في الرهن العقاري",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/35",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "شهادة من واقع دفتر التصديق على التوقيعات",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/146",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمي عام في الضرائب",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/36",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل في الأمور الزوجية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/33",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توثيق زواج الأجانب",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/69",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمي عام في صرف المعاش",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/34",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل إدارة دراجة بخارية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/152",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع أتوبيس وميكروباص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/149",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "محضر صلح",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/159",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "شهادة خبرة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/153",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع موتور",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/135",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد وكالة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/161",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل خاص بالمعاش",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/144",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار رسمي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/145",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع قاطرة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/148",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "توكيل رسمى عام بالصفة من توكيل رسمى عام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/32",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار إلغاء أحد أطراف التوكيل",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/142",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تسجيل شهادة لصالح الغير",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/141",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع وحدة بحرية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/131",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "فسخ عقد إيجار",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/137",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد تأسيس شركة تضامن",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/128",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد عمل",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/136",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار تنحى عن الوكالة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/140",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "ترجمة محررات رسمية خاصة بزواج الأجانب",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/68",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع جدك صيدلية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/134",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع لنش",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/133",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد تخارج شركة توصية بسيطة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/122",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد شركة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/130",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إقرار شريك مسئول",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/143",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد بيع سفينة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/132",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد شركة تضامن",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/129",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد تعديل شركة تضامن",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/127",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد تخارج شركة تضامن",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/126",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد شركة توصية بسيطة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/125",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد تأسيس شركة توصية بسيطة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/124",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد تعديل شركة توصية بسيطة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/123",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "عقد فض / فسخ شركة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/121",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الشهر العقاري و التوثيق",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إصدار شهادة ميلاد مميكنة مطبوعة مسبقا",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/29",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستمارة تجديد رقم قومي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/67",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تغيير بيانات بطاقة رقم قومي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/65",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إصدار وثيقة زواج مميكنة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/10",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إصدار شهادة وفاة مميكنة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/8",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إصدار شهادة ميلاد مميكنة لأول مرة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/7",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "قيد عائلي مطبوع مسبقا",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/66",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "غرامات بطاقة رقم قومي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/189",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إصدار وثيقة طلاق مميكنة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/30",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تجديد بطاقة الرقم القومي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/61",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "بدل فاقد رقم قومي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/62",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إصدار بطاقة رقم قومي بدل تالف",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/64",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إصدار بطاقة رقم قومي أول مرة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/63",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأحوال المدنية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "فيش جنائى مستعجل",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/14",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الأدلة الجنائية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج صورة رسمية للأحكام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/95",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج إعلام الوراثة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/93",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج صيغة تنفيذية للأحكام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/94",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "الإستعلام عن وجود قضايا أسرة وقضايا إعلام الوراثة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/99",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج شهادة واقع الجدول",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/96",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج صورة من قرار جلسة مال",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/97",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "الدفع إلكتروني لقيم مخالفات المرور",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/91",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج شهادة براءة الذمة من المخالفات المرورية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/92",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج قرار وصاية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/98",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج شهادة من الجدول وصورة رسميه من القضايا والأحكام الجنائية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/100",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "الإستعلام عن قيم المخالفات المرورية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/90",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "الإستعلام عن حالة العرائض والشكاوى والتظلمات المقدمة لنيابات الإستئناف",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/101",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تقديم عريضة أو شكوى",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/106",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "الإستعلام عن حالة العرائض والشكاوى والتظلمات والإلتماسات وإعادة النظر المقدمة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/103",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تقديم إلتماس بإعادة النظر",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/104",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تقديم تظلم لنيابات الإستئناف",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/102",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "صورة رسمية من مستند في دعوى (عريضة الدعوى - واجهة الحافظة)",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/178",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "صورة رسمية من قرار محامي عام",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/177",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستخراج وثيقة (زواج - طلاق - تصادق - زواج غير مسلمين - مراجعة)",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/176",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تقديم تظلم",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/105",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "النيابة العامة المصرية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "جواز سفر جديد/تجديد",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/54",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للجوازات والهجرة والجنسية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إصدار شهادة تحركات",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/55",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للجوازات والهجرة والجنسية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "جواز سفر بدل فاقد/تالف",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/53",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للجوازات والهجرة والجنسية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تجديد رخصه مركبة بدون فحص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/44",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للمرور",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "بدل فاقد رخصة قيادة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/46",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للمرور",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "بدل فاقد رخصه تسيير مركبة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/50",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للمرور",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "بدل تالف ملصق إلكتروني",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/47",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للمرور",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "بدل تالف رخصة قيادة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/45",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للمرور",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "بدل تالف رخصه تسيير مركبة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/49",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للمرور",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "بدل فاقد ملصق إلكتروني",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/48",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الإدارة العامة للمرور",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع مقابل كارت الخدمات المتكاملة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/89",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "وزارة التضامن الاجتماعي",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "مقابل الكشف الوظائفي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/88",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "وزارة التضامن الاجتماعي",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع طبعة رقم تأمين",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/170",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستعلام مؤمن عليه",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/57",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع تأمين سيارة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/173",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع تأمين منشأة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/168",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تسجيل رقم تأميني",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/60",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع تأمين عامل نقل بري",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/171",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع تأمين عامل مقاولات",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/172",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستعلام معاشات",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/56",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع تأمين شامل",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/175",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إستعلام ودفع رصيد منشأت برصيد المدين فقط",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/58",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "جميع مدفوعات التأمينات الخاصة بصندوق العام و الخاص",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/167",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع تأمينات النقل",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/169",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تأمين صحي سيارات",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/165",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "إعتماد بطاقة إستمارة رقم قومي",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/59",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تأمين صحي منشأت",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/164",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع تأمين صياد",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/174",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تأمين صحي معاشات",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/166",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "تأمين صحى أفراد مؤمن عليه",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/163",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "التأمينات الاجتماعية",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع فواتير الكهرباء",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/73",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/76",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع المصروفات الدراسية للطلبة اقساط بالتربية و التعليم ( المدارس الحكوميه)",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/77",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "شحن عداد الكهرباء",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/74",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "مدفوعات CNE,BEIN",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/81",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "مدفوعات وزارة التربية و التعليم - بوابة السداد",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/188",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "مدفوعات الحج",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/82",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع مجموعات التقوية بورسعيد",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/80",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع تظلمات الثانوية العامة",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/79",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "استكمال دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/78",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    },
+    {
+      "title": "دفع مصروفات الجامعة الدراسية",
+      "sourceUrl": "https://www.khadamatmisr.gov.eg/node/75",
+      "sourceDomain": "www.khadamatmisr.gov.eg",
+      "category": "الدفع الإلكتروني",
+      "verifiedAt": "2026-09-24",
+      "importStatus": "needs-review",
+      "notes": "Official page title mismatch: \"missing\"."
+    }
+  ]
+}

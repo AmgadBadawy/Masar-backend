@@ -1,0 +1,412 @@
+{
+  "source": "https://www.khadamatmisr.gov.eg/serviceslist",
+  "discovered": 130,
+  "startIndex": 100,
+  "recordCount": 25,
+  "verified": [
+    {
+      "title": "مقابل الكشف الوظائفي",
+      "slug": "khadamat-misr-88",
+      "category": "social-solidarity",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — مقابل الكشف الوظائفي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/88"
+      }
+    },
+    {
+      "title": "دفع طبعة رقم تأمين",
+      "slug": "khadamat-misr-170",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع طبعة رقم تأمين",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/170"
+      }
+    },
+    {
+      "title": "إستعلام مؤمن عليه",
+      "slug": "khadamat-misr-57",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستعلام مؤمن عليه",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/57"
+      }
+    },
+    {
+      "title": "دفع تأمين سيارة",
+      "slug": "khadamat-misr-173",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين سيارة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/173"
+      }
+    },
+    {
+      "title": "دفع تأمين منشأة",
+      "slug": "khadamat-misr-168",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين منشأة",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/168"
+      }
+    },
+    {
+      "title": "تسجيل رقم تأميني",
+      "slug": "khadamat-misr-60",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "صورة شهادة ميلاد المميكنة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تسجيل رقم تأميني",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/60"
+      }
+    },
+    {
+      "title": "دفع تأمين عامل نقل بري",
+      "slug": "khadamat-misr-171",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين عامل نقل بري",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/171"
+      }
+    },
+    {
+      "title": "دفع تأمين عامل مقاولات",
+      "slug": "khadamat-misr-172",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين عامل مقاولات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/172"
+      }
+    },
+    {
+      "title": "إستعلام معاشات",
+      "slug": "khadamat-misr-56",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "صورة بطاقة قومي"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستعلام معاشات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/56"
+      }
+    },
+    {
+      "title": "دفع تأمين شامل",
+      "slug": "khadamat-misr-175",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين شامل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/175"
+      }
+    },
+    {
+      "title": "إستعلام ودفع رصيد منشأت برصيد المدين فقط",
+      "slug": "khadamat-misr-58",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "رقم المنشأة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إستعلام ودفع رصيد منشأت برصيد المدين فقط",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/58"
+      }
+    },
+    {
+      "title": "جميع مدفوعات التأمينات الخاصة بصندوق العام و الخاص",
+      "slug": "khadamat-misr-167",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — جميع مدفوعات التأمينات الخاصة بصندوق العام و الخاص",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/167"
+      }
+    },
+    {
+      "title": "دفع تأمينات النقل",
+      "slug": "khadamat-misr-169",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمينات النقل",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/169"
+      }
+    },
+    {
+      "title": "تأمين صحي سيارات",
+      "slug": "khadamat-misr-165",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تأمين صحي سيارات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/165"
+      }
+    },
+    {
+      "title": "إعتماد بطاقة إستمارة رقم قومي",
+      "slug": "khadamat-misr-59",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "استمارة رقم قومي مختومة من جهة العمل"
+        },
+        {
+          "name": "صورة بطاقة الرقم القومي"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — إعتماد بطاقة إستمارة رقم قومي",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/59"
+      }
+    },
+    {
+      "title": "تأمين صحي منشأت",
+      "slug": "khadamat-misr-164",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تأمين صحي منشأت",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/164"
+      }
+    },
+    {
+      "title": "دفع تأمين صياد",
+      "slug": "khadamat-misr-174",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع تأمين صياد",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/174"
+      }
+    },
+    {
+      "title": "تأمين صحي معاشات",
+      "slug": "khadamat-misr-166",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تأمين صحي معاشات",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/166"
+      }
+    },
+    {
+      "title": "تأمين صحى أفراد مؤمن عليه",
+      "slug": "khadamat-misr-163",
+      "category": "social-insurance",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — تأمين صحى أفراد مؤمن عليه",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/163"
+      }
+    },
+    {
+      "title": "دفع فواتير الكهرباء",
+      "slug": "khadamat-misr-73",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع فواتير الكهرباء",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/73"
+      }
+    },
+    {
+      "title": "دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+      "slug": "khadamat-misr-76",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع المصروفات الدراسية للطلبة بالتربية و التعليم",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/76"
+      }
+    },
+    {
+      "title": "دفع المصروفات الدراسية للطلبة اقساط بالتربية و التعليم ( المدارس الحكوميه)",
+      "slug": "khadamat-misr-77",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — دفع المصروفات الدراسية للطلبة اقساط بالتربية و التعليم ( المدارس الحكوميه)",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/77"
+      }
+    },
+    {
+      "title": "شحن عداد الكهرباء",
+      "slug": "khadamat-misr-74",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — شحن عداد الكهرباء",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/74"
+      }
+    },
+    {
+      "title": "مدفوعات CNE,BEIN",
+      "slug": "khadamat-misr-81",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — مدفوعات CNE,BEIN",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/81"
+      }
+    },
+    {
+      "title": "مدفوعات وزارة التربية و التعليم - بوابة السداد",
+      "slug": "khadamat-misr-188",
+      "category": "electronic-payments",
+      "documents": [
+        {
+          "name": "يلزم للحصول على تلك الخدمة توافر الصفة القانونية في طالب الخدمة وتقديم أصل بطاقة الرقم القومي أو أصل جواز السفر بالنسبة للأجانب أو أصل سند الوكالة"
+        }
+      ],
+      "steps": [],
+      "verification": {
+        "verifiedAt": "2026-09-24",
+        "sourceTitle": "مركز خدمات مصر — مدفوعات وزارة التربية و التعليم - بوابة السداد",
+        "sourceUrl": "https://www.khadamatmisr.gov.eg/node/188"
+      }
+    }
+  ],
+  "needsReview": []
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_service_required_documents",
+  "info": {
+    "displayName": "Required document"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
