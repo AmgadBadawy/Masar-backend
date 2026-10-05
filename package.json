@@ -9,7 +9,7 @@
     "deploy": "strapi deploy",
     "dev": "strapi develop",
     "develop": "strapi develop",
-    "start": "strapi start",
+    "start": "node scripts/ensure-uploads.js && strapi start",
     "strapi": "strapi",
     "test": "node --test tests",
     "import:services": "node scripts/import-services.js",
